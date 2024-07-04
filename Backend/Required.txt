@@ -1,0 +1,40 @@
+{
+  "name":"Aaditya",
+  "password":"123",
+  "role":"ADMIN",
+  "email":"aadityathakare124@gmail.com",
+  "phone":"8275807713",
+  "dob":"12-04-2004",
+  "profilePic":"My Picture"
+}
+
+
+{
+  "id":"",
+  "userid":"11",
+  "description":"This is First!",
+  "isDone":false,
+  "data":"This is data",
+  "like":1000,
+  "dislike":40,
+  "creadtedDate":"11 June 2024"
+}
+
+
+
+
+Password Encoding 
+and Password length limit
+Admin Mail OTP for ADMINS
+
+
+
+Password validation at reset PAssword!
+
+
+Deployemnt:-
+
+mongosh "mongodb://mongo:LLFcWZJNghxhYJNXSAmoyOcXAXnwKnia@monorail.proxy.rlwy.net:22688"
+
+
+railway connect MongoDB
